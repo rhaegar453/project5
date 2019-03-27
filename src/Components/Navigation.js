@@ -6,7 +6,7 @@ export default class Navigation extends React.Component {
   }
   render() {
     return (
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <nav class="navbar navbar-expand-lg navbar-light bg-primary">
         <a class="navbar-brand" href="#">
         <i class="fas fa-folder-open" style={{marginRight:"5px"}}></i>
           <b>FolderLy</b>
